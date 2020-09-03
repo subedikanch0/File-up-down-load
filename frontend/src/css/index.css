@@ -1,0 +1,24 @@
+.backgroundcolor {
+    background: #494963;
+    ;
+}
+
+.filemaindivtopmargin {
+    margin-top: 143px;
+}
+
+.middle {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.middlebutton {
+    margin: auto;
+    width: 57%;
+    padding: 10px;
+}
+
+.textcenter {
+    text-align: center;
+}

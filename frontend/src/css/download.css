@@ -1,0 +1,20 @@
+.margintop30{
+    margin-top: 30px;
+}
+.downloadfilelabel{
+    font-size: 30px;
+}
+.selectdatedownload{
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 39px;
+    font-size: 20px;
+}
+.fontwhitecolor{
+    color:white
+
+}
+.tabletrtobeselected:hover {
+  background-color:#565666;
+    
+}
